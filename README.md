@@ -1,0 +1,1 @@
+# Find-the-k-beauty-of-a-number
